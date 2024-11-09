@@ -15,8 +15,6 @@ A simple web application to search for books using the OpenLibrary API. This app
 - **OpenLibrary API** for fetching book data.
 
 - ## Video
-- 
-
 https://github.com/user-attachments/assets/a75af7de-7436-49a6-a00f-bc39cb1a3b1c
 
 
