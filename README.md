@@ -17,6 +17,10 @@ A simple web application to search for books using the OpenLibrary API. This app
 - ## Video
 - 
 
+https://github.com/user-attachments/assets/a75af7de-7436-49a6-a00f-bc39cb1a3b1c
+
+
+
 ## Installation
 Clone this repository to your local machine using:
 ```bash
